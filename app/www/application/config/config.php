@@ -95,7 +95,7 @@ $config['language'] = Config::LANGUAGE;
 |
 */
 $config['available_languages'] = [
-    'catalan',
+    'english',
     'spanish',
 ];
 
